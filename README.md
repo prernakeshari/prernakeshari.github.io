@@ -1,2 +1,2 @@
-# prernakeshari.github.io
-Welcome To Mind Mechanics by Prerna
+# Mind Mechanics with Dr. Prerna
+Welcome To Mind Mechanics with Prerna
