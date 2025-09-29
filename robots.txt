@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prernakeshari.github.io/sitemap.xml
